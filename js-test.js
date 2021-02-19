@@ -1,4 +1,4 @@
-// Task: generate 50 copies of an object with the following shape
+// Task: generate 50 objects with the following shape
 //
 // The `name` can be any string at all
 // The `group` should be either "x", "y" or "z" and each of those letters must appear at least once in the generated objects
